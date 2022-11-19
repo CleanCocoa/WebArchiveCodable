@@ -7,10 +7,12 @@ public struct WebArchive {
     ///
     /// Confer WebKit's `WebResource.h`:  <https://github.com/WebKit/WebKit/blob/main/Source/WebKitLegacy/win/WebResource.h>
     public struct Resource {
-        public let mimeType: String
         public let url: URL?
-        public let frameName: String?
+
+        public let mimeType: String
+
         public let data: Data?
+        public let frameName: String?
     }
 
     public let mainResource: Resource
@@ -19,20 +21,20 @@ public struct WebArchive {
 
 extension WebArchive.Resource: Decodable {
     enum CodingKeys: String, CodingKey {
-        case MIMEType = "WebResourceMIMEType"
         case url = "WebResourceURL"
-        case frameName = "WebResourceFrameName"
+        case MIMEType = "WebResourceMIMEType"
         case data = "WebResourceData"
+        case frameName = "WebResourceFrameName"
     }
 
     public init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         try self.init(
-            mimeType: container.decode(String.self, forKey: .MIMEType),
             url: container.decodeIfPresent(String.self, forKey: .url)
-                .flatMap(URL.init(string:)),
-            frameName: container.decodeIfPresent(String.self, forKey: .frameName),
-            data: container.decodeIfPresent(Data.self, forKey: .data)
+                    .flatMap(URL.init(string:)),
+            mimeType: container.decode(String.self, forKey: .MIMEType),
+            data: container.decodeIfPresent(Data.self, forKey: .data),
+            frameName: container.decodeIfPresent(String.self, forKey: .frameName)
         )
     }
 }
