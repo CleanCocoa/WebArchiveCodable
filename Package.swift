@@ -17,6 +17,9 @@ let package = Package(
             dependencies: []),
         .testTarget(
             name: "WebArchiveCodableTests",
-            dependencies: ["WebArchiveCodable"]),
+            dependencies: ["WebArchiveCodable"],
+            resources: [
+              .copy("Fixtures"),
+            ]),
     ]
 )
