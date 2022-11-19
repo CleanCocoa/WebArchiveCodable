@@ -1,8 +1,6 @@
-//  Copyright © 2022 Christian Tietze. All rights reserved. Distributed under the MIT License.
-
 public struct WebArchive: Equatable {
     public struct WebResource: Equatable {
-        public let MIMEType: String
+        public let mimeType: String
     }
 
     public let mainResource: WebResource
@@ -17,7 +15,7 @@ extension WebArchive.WebResource: Decodable {
     public init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         try self.init(
-            MIMEType: container.decode(String.self, forKey: .MIMEType)
+            mimeType: container.decode(String.self, forKey: .MIMEType)
         )
     }
 }

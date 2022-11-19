@@ -8,9 +8,9 @@ final class WebArchiveCodableTests: XCTestCase {
         let webArchive = try PropertyListDecoder().decode(WebArchive.self, from: data)
 
         XCTAssertEqual(webArchive, WebArchive(
-            mainResource: .init(MIMEType: "text/html"),
+            mainResource: .init(mimeType: "text/html"),
             subresources: [
-                .init(MIMEType: "image/png"),
+                .init(mimeType: "image/png"),
             ]))
     }
 }
