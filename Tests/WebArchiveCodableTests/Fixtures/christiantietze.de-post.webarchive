@@ -1,0 +1,177 @@
+bplist00Ò_WebSubresources_WebMainResource¡Ô	
+_WebResourceData_WebResourceMIMEType^WebResourceURL_WebResourceResponseOUlï»¿.light{background-color:#fdf6e3;color:#657b83}.light *{color:#657b83}.light h1,.light h2,.light h3,.light h4,.light h5,.light h6{color:#586e75;border-color:#657b83}.light a,.light a:active,.light a:visited{color:#586e75}.dark{background-color:#002b36;color:#839496}.dark *{color:#839496}.dark h1,.dark h2,.dark h3,.dark h4,.dark h5,.dark h6{color:#93a1a1;border-color:#839496}.dark a,.dark a:active,.dark a:visited{color:#93a1a1}header,nav,article,footer,aside,address,section{display:block}html{height:100%;overflow-y:scroll;font-size:18px;line-height:1.55556}@media (min-width: 700px){html{font-size:21px;line-height:1.71429}}body{font-size-adjust:none;font-style:normal;font-variant:normal;font-weight:normal;background:#fcf9ec;color:#3a484d;margin:0}body{font-family:"Source Serif Pro",serif}pre,tt,code,kbd,samp,var{font-family:Consolas,monospace;-webkit-font-smoothing:subpixel-antialiased}h1,h2,h3{font-family:"Open Sans",Arial,sans-serif}h4,h5,h6{font-family:"Source Serif Pro",serif}h1,h2,h3,h4,h5,h5{clear:both}small,figcaption,footer,.leave a.calltoaction,legend,input,button,textarea,select,details{font-family:"Open Sans",Arial,sans-serif;-webkit-font-smoothing:subpixel-antialiased}.leave a.calltoaction{font-size:0.95em;font-weight:bold}figcaption{font-style:italic}@media (min-width: 700px){figcaption{max-width:80%;margin:0 auto}}p,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,blockquote,th,td{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-family:"Open Sans",Arial,sans-serif;font-weight:bold}h1{font-size:180%;line-height:1.2em;margin-bottom:0.45em;color:#2e3a3e}@media (min-width: 700px){h1{font-size:218%}}h2,.post h1,.post--link .title,legend{font-size:145%;margin-bottom:0.7em;line-height:1.3em;margin-top:1.3em;color:#2e3a3e}@media (min-width: 700px){h2,.post h1,.post--link .title,legend{font-size:164%;margin-bottom:0.6em}}h3,.post h2,.page-heading{font-size:118%;margin-bottom:0.84em;line-height:1.4em}@media (min-width: 700px){h3,.post h2,.page-heading{font-size:145%;margin-bottom:0.7em}}h4,h5,h6,.post h3{font-size:100%}@media (min-width: 700px){h4,h5,h6,.post h3{font-size:118%}}footer.footnotes ol,small,article footer,figcaption{font-size:.77778em;line-height:2em}aside#comments{margin-top:-4em}article footer{margin-top:2em}footer.footnotes ol,aside p{margin-top:2em}p,ol,ul,.long li,pre,hr,legend,input,button,textarea,select,address,table,blockquote,.gist,dd{margin-bottom:1.55556em}footer.footnotes ol *,ul li,ol li,dt{margin-bottom:0em}a:link,a:visited{color:#268bd2;text-decoration:none;border-bottom:1px solid #268bd2}a:hover,a:focus{color:#42a4e9;border-bottom-color:transparent}a:link.imagelink,a:visited.imagelink,a:hover.imagelink,a:focus.imagelink{border-bottom-color:transparent}a:link img,a:visited img,a:hover img,a:focus img{vertical-align:baseline}a[href$=jpg],a[href$=jpeg],a[href$=jpe],a[href$=png],a[href$=gif]{border-bottom-color:transparent}a:focus{outline:1px dotted #000;background:rgba(150,50,255,0.1)}a:hover,a:active{outline:none}fieldset,img{border:0}img{vertical-align:bottom}ol li,ul ol li{list-style-type:decimal}ul li{list-style-type:disc}ul ul li{list-style-type:circle}ul ul ul li{list-style-type:square}ol ol li{list-style-type:lower-alpha}ol ol ol li{list-style-type:lower-roman}sub{vertical-align:sub;font-size:smaller}sup{vertical-align:baseline;font-size:smaller;position:relative;top:-0.4em;line-height:0}legend{padding-bottom:.5em}table{border-collapse:collapse;border-spacing:0}caption{position:absolute;left:-999em}th{text-align:center}tbody th{text-align:left}pre{background:#fdfdfa}code,pre{color:#45565c}i,em{font-style:italic}blockquote,q,cite,dfn,var,address{font-style:normal}blockquote em,q em,cite em{font-style:italic}blockquote p:before,blockquote p:after,q:before,q:after{content:''}th,strong,dt,b{font-weight:700}ins{text-decoration:none;font-style:italic}del{text-decoration:line-through}abbr{border-bottom:1px dotted #333;font-variant:normal}ul,ol{margin-left:2em}figure{margin-left:0;margin-right:0;padding:0}.youtube iframe{max-width:100%;width:100%;position:absolute;top:0;left:0;width:100%;height:100%;border:0}.video-container{position:relative;width:100%;padding-bottom:56.25%}ul,ol{list-style-position:outside}li ul,li ol{margin:0 1.618em}dl{margin:0 0 1.618em 0}dl dt{font-weight:700}dl dd{margin-left:1.618em}dd{padding-left:20px;margin-top:.5em}hr{margin-right:30px;margin-left:30px;border-style:inset;border-width:1px;margin-bottom:1.618em}blockquote{margin-left:0.8125em;border-left:0.8125em solid #ddd;padding-left:0.8125em}address{font-style:italic}label{padding-top:1.618em}input[type="checkbox"]{vertical-align:bottom;*vertical-align:baseline}input[type="radio"]{vertical-align:text-bottom}input{_vertical-align:text-bottom}input,button,textarea,select,optgroup,option{font-size:.9em;line-height:1.4 !important}.block{padding:0 30px;margin-top:1.618em}.padding2margin{margin-right:30px;margin-left:30px;padding-right:0;padding-left:0}.noMarker li{list-style:none;margin-left:0}sup.footnote{line-height:0px}sup.footnote a{padding:0.1em 0.15em}#site-header{text-align:center;padding-top:1em;padding-bottom:1em;border-bottom:0.3em solid #9cbb08}@media (min-width: 700px){#site-header{text-align:left}}@media (min-width: 700px){#banner{display:inline}}#navigation{font-family:"Open Sans",Arial,sans-serif;text-align:center;margin:0}@media (min-width: 700px){#navigation{text-align:right;display:inline-block}}.nav_items{list-style-type:none;margin-top:0.3em;margin-bottom:0.3em;margin-left:0;margin-right:0;padding:0}@media (min-width: 700px){.nav_items{display:inline}}.nav_item{display:inline;padding-right:0.3em;padding-left:0.3em;font-weight:200}@media (min-width: 700px){.nav_item{padding-left:0em;padding-right:0em;margin-right:1em}}@media (max-width: 699px){.nav_item--newline-sm:before{content:' ';display:block}}.nav_item__link{padding:0.5em;display:inline-block}.nav_item__link:link,.nav_item__link:visited{color:#268bd2;border-bottom-color:transparent}.nav_item__link:hover{color:#9cbb08;border-bottom-color:transparent}@media (min-width: 700px){.nav_item__link{padding:0.2em}}.sitetitle{font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;font-size:2em;margin:0 0 0.5em 0;text-align:center;font-weight:800;color:#444;text-transform:lowercase;word-spacing:-0.3em}.sitetitle .forename{color:#333;font-weight:200}.sitetitle a{border:none;color:inherit}@media (min-width: 700px){.sitetitle{font-size:1.5em;display:inline;margin-bottom:0;padding-right:1em;text-align:left}}#content{padding:4em 0 2em 0}.show-promotion #content{padding-top:2em}.container{margin-right:auto;margin-left:auto;padding-right:5%;padding-left:5%;max-width:35em}@media (min-width: 700px){.container{max-width:38em}}.side{margin-left:4%}@media (min-width: 700px){.side{clear:both;float:right;width:20em;margin-left:2em}.side p{padding-left:0}}h1.page-heading{margin-top:0}section>h1{font-size:2em;line-height:1.55556em;text-align:center;font-weight:normal;color:#657576}hr{border-width:0;border-top:1px solid #93a1a1}pre{padding-top:0.5em;padding-bottom:0.5em;font-size:0.9em;line-height:1em;overflow:auto;border-bottom:0.3em solid #ccc;border-top:0.3em solid #ccc}pre code{line-height:1.5556em;line-height:3ex}pre code.language-asciiart{line-height:1em}aside{font-family:"Open Sans",Arial,sans-serif}aside.note{font-size:80%;color:#6c71c4;border-radius:0.8rem;border:2pt solid #6c71c4;padding:1rem;margin:2rem}.footer{color:#657576}.footer a:link,.footer a:visited{color:#57a0d4}.footer a:hover{color:#78b9e6}#footer{padding-top:2em;padding-bottom:2em;border-top:0.3em solid #9cbb08}#section-back{color:#3a484d;border-bottom-color:transparent}#posts .post .title{margin-top:1.5em}#posts .post:first-child .title{margin-top:0}#posts header .title a{border-bottom-color:transparent;color:#3289c6}#section-back:hover,#posts header .title a:hover{color:#4ca2df}.posts__to-archive{font-size:2em;font-weight:bold}#posts header .time{margin-top:0;color:#93a1a1;font-style:italic;font-size:.77778em;line-height:2em}#posts article,#wiki article{margin-bottom:6.22222em}#posts article:last-child{margin-bottom:0}article .gist{font-size:60%;line-height:1.2;padding:0}article figure{margin-bottom:1.55556em;margin-top:1.55556em;text-align:center}article figure>a,article figure>a:link,article figure>a:visited,article figure>a:hover{border-bottom-color:transparent}article figure video{max-width:100%}article figure.teaser{margin:0;padding:0;width:100%}@media (min-width: 700px){article figure.teaser{max-width:40%;float:right;margin-left:0.5em;margin-top:0;margin-bottom:0}}article figure.post-figure--grid{display:flex;flex-direction:column}article figure.post-figure--grid .post-figure__images{display:flex;flex-direction:row;justify-content:space-between}article figure.post-figure--grid .post_figure--grid__item{display:block;box-sizing:border-box;width:49%}article img{border-width:0;padding:0;max-width:100%;box-sizing:border-box}@media (min-width: 700px){article img{border:1px solid #d4d4d4;padding:0.25em;background:#fff}}article img.noborder{border-width:0;background:transparent;padding:0}img.appstore{width:120px;height:40px;background:transparent !important;border:none !important;padding:0 !important}a.citation,a.footnote{color:#666;padding:0 0.4em;border-radius:1em;background:#ebe3bf;border-bottom-color:transparent;vertical-align:baseline;font-size:smaller;position:relative;top:-0.4em;line-height:0}a.footnote{padding-right:0.2em;letter-spacing:0.2em}article .footnotes{font-size:.77778em;line-height:2em}article .footnotes ol{padding:0 20px}.post__meta,.wiki__meta{margin-left:0;margin-top:0;padding:0;display:inline-block}.post__meta li,.wiki__meta li{font-family:"Open Sans",Arial,sans-serif;display:inline}#posts nav.pagination{font-family:"Open Sans",Arial,sans-serif}#posts nav.pagination ul li{font-weight:bold;margin-top:0;list-style:none}#posts nav.pagination ul li{display:inline-block;width:49%}#posts nav.pagination li.newer{text-align:left}#posts nav.pagination li.newer a::before{content:'\2190';display:inline-block;width:1.2em}#posts nav.pagination li.older{text-align:right}#posts nav.pagination li.older a::after{content:'\2192';display:inline-block;width:1.2em}#posts #backlinks{margin-top:-3.11111em;margin-bottom:3.11111em}#posts #backlinks ul,#posts #backlinks ol{margin:0;padding:0;list-style:none}#posts #backlinks li{margin:0;padding:0}#posts #backlinks .entries{display:flex;flex-flow:row wrap;justify-content:flex-start}#posts #backlinks .entry{box-sizing:border-box;display:block}#posts #backlinks .entry .title,#posts #backlinks .entry .summary{font-size:0.8em}@media (min-width: 700px){#posts #backlinks .entry{width:50%;padding-right:1em;padding-bottom:1em}}.post--link .title a::after{content:'â†’'}.post-moved{font-style:italic;background:#EEE8D5;padding-top:1em;padding-bottom:1em}details{margin-top:1.55556em;margin-bottom:1.55556em}details.toc{margin-left:2em}details.toc summary{font-weight:bold}.toc__list{font-size:80%}.tags{display:inline;margin-left:0}.tags li{display:inline;list-style:none;padding-right:0}#intro{position:relative}#intro .intro__text{font-style:italic}#intro .nav{z-index:1000;position:relative;font-family:"Open Sans",Arial,sans-serif}#intro .avatar{width:4em;position:absolute;right:10px;top:0;z-index:0}@media (min-width: 700px){#intro .avatar{width:8em;margin-right:4em}}.feature{float:right;width:30%;margin-top:1.55556em}.feature img{max-width:98%}.feature a{border-bottom-color:transparent}.leave::before{content:'\2192';display:inline-block;width:1.2em}@media (min-width: 700px){.leave::before{margin-left:-1.2em}}@media (min-width: 700px){footer .callme{display:none}}.photo .body div.image a,a.image{border:0}#posts article img.vgwort{border:0;padding:0;position:absolute;top:-9999px;left:-9999px}.archive-year{overflow:hidden;text-align:center;margin-left:30px;margin-right:30px}.text-over-line:before,.text-over-line:after{background-color:#93a1a1;content:"";display:inline-block;height:1px;position:relative;vertical-align:middle;width:50%}.text-over-line:before{right:0.5em;margin-left:-50%}.text-over-line:after{left:0.5em;margin-right:-50%}.archive-month{font-size:80%;font-family:"Open Sans",Arial,sans-serif}.archive-post{font-size:80%}.archive-post a,.archive-post a:link,.archive-post a:hover,.archive-post a:visited{font-family:"Open Sans",Arial,sans-serif}.archive-post__title{vertical-align:top}.archive-post__day{vertical-align:top;text-align:left;font-family:"Open Sans",Arial,sans-serif;min-width:5em}.alltags{list-style-type:none}.alltags .tag_char{clear:both}.alltags .tag_char .char{font-weight:bold;font-family:"Open Sans",Arial,sans-serif}.alltags .tag,.alltags .tag_char{display:inline-block;float:left;width:50%}@media (min-width: 700px){.alltags .tag,.alltags .tag_char{font-size:14px;width:25%;padding:0.3em 0}}q{quotes:'\201C' '\201D' '\2018' '\2019'}:lang(de) q{quotes:'\00BB' '\00AB' '\203A' '\2039'}q:before{content:open-quote}q:after{content:close-quote}q.hang{margin-left:-0.54em}th,td{padding:0.2em 0.6em}thead{background-color:rgba(0,0,60,0.1)}tr.numerical td{text-align:right}tbody td.total{font-weight:bold}.gist table.lines{margin:0}.calltoaction--sole{font-weight:bold}.software.product{clear:both;margin-bottom:2em}.app__icon-box{max-width:300px;padding:0 10%;margin:0 auto}@media (min-width: 700px){.app__icon-box{max-width:20%;padding:0;margin-right:1em;margin-bottom:2em;float:left}}.app__icon-link:link,.app__icon-link:visited{border-bottom-color:transparent}.app__icon{width:100%}.app__text{margin-top:0}.promotion{font-family:"Open Sans",Arial,sans-serif;background:#fff;margin-bottom:1em;padding-top:1em;padding-bottom:1em;margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;font-size:.77778em;line-height:2em}@media (min-width: 700px){.promotion{margin-left:0;margin-right:0;overflow:hidden;zoom:1}}.promotion__image{display:block}@media (min-width: 700px){.promotion__image{display:inline}}.promotion__title{margin-top:0}.promotion__details{display:none}@media (min-width: 700px){.promotion__details{display:inline}}.hero{overflow:hidden}.hero__cover{text-align:center}@media (min-width: 700px){.hero__cover{width:40%;float:left;margin-right:2em}}.hero__image{border:1px solid black;max-width:60%}@media (min-width: 700px){.hero__image{max-width:100%}}.hero__heading{clear:none;font-weight:normal;line-height:1.3;margin-top:1.3em}@media (min-width: 700px){.hero__heading{margin-top:0}}.hero__text{font-family:"Open Sans",Arial,sans-serif;font-weight:200}.hero__rule{border-top:4px solid #6c71c4;margin-bottom:2em;margin-top:2em}.smallprint{clear:both;font-size:14px;font-family:"Open Sans",Arial,sans-serif;font-weight:200}.smallprint strong,.smallprint b{font-weight:400}.smallprint ul{margin-left:2em}.tagline{font-size:1.4em;font-weight:200;color:#586e75;text-align:center;line-height:1.2em;margin-top:1em;margin-bottom:1em;margin-left:1em;margin-right:1em}@media (min-width: 700px){.tagline{font-size:1.8em}}.product{margin-top:1em;margin-bottom:3em;padding-top:1em;padding-bottom:1em}@media (min-width: 700px){.product{overflow:hidden;zoom:1}}.product__title{font-size:118%;margin-bottom:1em;margin-top:1.3em}@media (min-width: 700px){.product__title{margin-top:0}}.product__shot{border:1px solid #555;max-width:60%;margin-left:auto;margin-right:auto;display:block}@media (min-width: 700px){.product__shot{max-width:30%;max-height:14em;margin-right:2em;float:left;margin-bottom:1.5em}}.product__details{font-size:80%}.product__text{margin-top:0}.product__content{overflow:hidden}.contact__picture-box{width:50%;max-width:12em;margin-left:auto;margin-right:auto;margin-bottom:2em}@media (min-width: 700px){.contact__picture-box{float:right;max-width:30%;margin-left:2em}}.contact__picture{max-width:100%}.clearfix:before,.clearfix:after{content:" ";display:table}.clearfix:after{clear:both}.landingpage h1{text-align:left}#introduction{margin-top:0em;margin-bottom:0em}#clean-coding h1{color:#dc322f}.clean-coding__actions li{list-style-type:none}pre{background-color:#fdf6e3;color:#586e75}code .c{color:#93a1a1}code .lineno{color:#2aa198}code .err{color:#586e75}code .g{color:#586e75}code .k{color:#859900}code .l{color:#586e75}code .n{color:#586e75}code .o{color:#859900}code .x{color:#cb4b16}code .p{color:#586e75}code .cm{color:#93a1a1}code .cp{color:#859900}code .c1{color:#93a1a1}code .cs{color:#859900}code .gd{color:#2aa198}code .ge{color:#586e75;font-style:italic}code .gr{color:#dc322f}code .gh{color:#cb4b16}code .gi{color:#859900}code .go{color:#586e75}code .gp{color:#586e75}code .gs{color:#586e75;font-weight:bold}code .gu{color:#cb4b16}code .gt{color:#586e75}code .kc{color:#cb4b16}code .kd{color:#268bd2}code .kn{color:#859900}code .kp{color:#859900}code .kr{color:#268bd2}code .kt{color:#dc322f}code .ld{color:#586e75}code .m{color:#2aa198}code .s{color:#2aa198}code .na{color:#586e75}code .nb{color:#B58900}code .nc{color:#268bd2}code .no{color:#cb4b16}code .nd{color:#268bd2}code .ni{color:#cb4b16}code .ne{color:#cb4b16}code .nf{color:#268bd2}code .nl{color:#586e75}code .nn{color:#586e75}code .nx{color:#586e75}code .py{color:#586e75}code .nt{color:#268bd2}code .nv{color:#268bd2}code .ow{color:#859900}code .w{color:#586e75}code .mf{color:#2aa198}code .mh{color:#2aa198}code .mi{color:#2aa198}code .mo{color:#2aa198}code .sb{color:#93a1a1}code .sc{color:#2aa198}code .sd{color:#586e75}code .s2{color:#2aa198}code .se{color:#cb4b16}code .sh{color:#586e75}code .si{color:#2aa198}code .sx{color:#2aa198}code .sr{color:#dc322f}code .s1{color:#2aa198}code .ss{color:#2aa198}code .bp{color:#268bd2}code .vc{color:#268bd2}code .vg{color:#268bd2}code .vi{color:#268bd2}code .il{color:#2aa198}.news__label,.newsletter label,.news__checkbox__label,.news__button,.news__input{font-family:"Open Sans",Arial,sans-serif}.news__label{font-variant:small-caps;text-transform:lowercase;font-weight:bold;width:auto;text-align:right}.news__input{border:2px solid;border-color:#A3A658;background:white;padding:0.5em 1em;margin-top:0;margin-bottom:0.5em}.news__input--email,.news__input--name{display:block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;width:100%}.news__input--button{display:block;width:100%;margin-top:1.5333em;font-variant:small-caps;text-transform:lowercase;color:#fff;letter-spacing:1px;background-color:rgba(163,166,88,0.8);box-shadow:0 2px 0 rgba(0,0,0,0.2);outline:none}.asterisk{color:red}.indicates-required{font-size:80%;font-style:italic}.news__group{margin-top:0;padding-left:0}.news__group li{list-style:none}.news__group input[type="checkbox"],.gdpr__checkbox{width:1em;height:1em;display:inline-block;margin-top:0;margin-right:0.5em;vertical-align:0}.gdpr__wrapper{padding-left:2em;margin-bottom:1.55556em}.gdpr__checkbox{float:left;height:1.7em;margin-left:-2em}.hero{overflow:hidden}.hero__cover{text-align:center}@media (min-width: 700px){.hero__cover{width:40%;float:left;margin-right:2em}}.hero__image{border:1px solid black;max-width:60%}@media (min-width: 700px){.hero__image{max-width:100%}}.hero__heading{clear:none;margin-top:0;font-weight:normal}.hero__text{font-family:"Open Sans",Arial,sans-serif;font-weight:200}.hero__rule{border-top:4px solid #6c71c4;margin-bottom:2em;margin-top:2em}.teaser{clear:both;font-size:0.8em;font-family:"Open Sans",Arial,sans-serif;font-weight:200}.teaser strong,.teaser b{font-weight:400}.tagline{font-size:1.4em;font-weight:200;color:#586e75;text-align:center;line-height:1.2em;margin-top:1em;margin-bottom:1em;margin-left:1em;margin-right:1em}@media (min-width: 700px){.tagline{font-size:1.8em}}.actions{text-align:center;font-family:"Open Sans",Arial,sans-serif;clear:both;vertical-align:top;margin-top:2em;margin-bottom:2em}@media (min-width: 700px){.actions{clear:none;margin-top:3em;margin-bottom:3em}}.actions.actions--small{margin-top:0;margin-bottom:0}@media (min-width: 700px){.actions__misc{display:inline-block}}.actions__buying,.actions__misc{padding:0;vertical-align:top}@media (min-width: 700px){.actions__buying,.actions__misc{margin-top:2em}}.actions__buying__item{list-style-type:none}.action{margin-left:10%;margin-right:10%;margin-top:1em;padding:1em 2em;display:block;text-decoration:none;text-align:center;vertical-align:middle;border-radius:0.4em}@media (min-width: 700px){.action{margin-left:0;margin-right:0;margin-top:0em}}.actions__buying .cta{font-weight:bold}@media (min-width: 700px){.actions__buying .action{margin-left:10%;margin-right:10%}}.action.action--small{margin-top:1em;padding:0.5em 1em}@media (min-width: 700px){.action.action--small{display:inline-block;margin-top:1em;margin-left:0%;margin-right:0%}}.action--download:link,.action--download:visited{border-width:2px;border-style:solid;border-color:#4ecb19;color:#4ecb19}@media (min-width: 700px){.action--download:link,.action--download:visited{margin-left:1em}}.action--download:hover{border-color:#3d9e13;color:#3d9e13}.action.action--aux{display:inline;padding:0;border-radius:0;line-height:1.4em}.action--shop:link,.action--shop:visited{color:white;background:#268bd2}.action--shop:hover{color:white;background:#227dbc}.action--contact:link,.action--contact:visited{color:white;background:#5B6FDC}.action--contact:hover{color:white;background:#465dd8}.action--buy-on-appstore:link,.action--buy-on-appstore:visited,.action--buy-on-appstore:hover{border-bottom-color:transparent}.action--buy:link,.action--buy:visited{color:white;background:blue}.action--buy:hover{color:white;background:#0000e6}.action--buy del{color:#E1E1E1}.action--buy ins{font-weight:bold}.action--details:link,.action--details:visited{background:transparent;border-color:transparent;text-decoration:underline}.twitter-tweet{margin-top:2em;margin-left:auto;margin-right:auto}@media only screen and (max-device-width: 480px){body{-webkit-text-size-adjust:none}}
+/*# sourceMappingURL=/css/default.css.map */
+Xtext/css_*https://christiantietze.de/css/default.cssOßbplist00Ô
+X$versionY$archiverT$topX$objects † _NSKeyedArchiverÑ	_WebResourceResponse€¯''-.4567YZ[\]^_`abcdefghijklmnopqrstuyU$nullÝ !"#$%&___nsurlrequest_proto_prop_obj_6___nsurlrequest_proto_prop_obj_3R$2___nsurlrequest_proto_prop_obj_0R$3___nsurlrequest_proto_prop_obj_4V$class___nsurlrequest_proto_prop_obj_1R$4R$0___nsurlrequest_proto_prop_obj_5___nsurlrequest_proto_prop_obj_2R$1€€€	€€&€€ €Ó()$+,WNS.base[NS.relative€ €€_*https://christiantietze.de/css/default.cssÒ/012Z$classnameX$classesUNSURL¢13XNSObject#AÄ”Ë\¤µ ÈÓ89:IXWNS.keysZNS.objects®;<=>?@ABCDEFGH€	€
+€€€€€€€€€€€€®KLMNOPQRSTUVW€€€€€€€€€€ €!€"€#€$€%\Content-TypeZKeep-Alive]Last-Modified_Content-EncodingVServer]Cache-ControlTDate_Strict-Transport-Security^Content-LengthZConnectionX__hhaa__TEtagTVary]Accept-RangesXtext/css_timeout=10, max=99_Wed, 16 Nov 2022 08:43:36 GMTTgzipVApache_max-age=600, public_Sat, 19 Nov 2022 22:27:37 GMT_#max-age=15552000; includeSubDomainsT5387ZKeep-Alive_ü
+
+YnBsaXN0MDDdAQIDBAUGBwgJCgsMDQ4QEhQWGBocHiAiJCZcQ29udGVudC1UeXBlWktlZXAtQWxpdmVUVmFyeV8QEENvbnRlbnQtRW5jb2RpbmdWU2VydmVyXUNhY2hlLUNvbnRyb2xURGF0ZV8QGVN0cmljdC1UcmFuc3BvcnQtU2VjdXJpdHleQ29udGVudC1MZW5ndGhaQ29ubmVjdGlvblRFdGFnXUFjY2VwdC1SYW5nZXNdTGFzdC1Nb2RpZmllZKEPWHRleHQvY3NzoRFfEBJ0aW1lb3V0PTEwLCBtYXg9OTmhE18QD0FjY2VwdC1FbmNvZGluZ6EVVGd6aXChF1ZBcGFjaGWhGV8QE21heC1hZ2U9NjAwLCBwdWJsaWOhG18QHVNhdCwgMTkgTm92IDIwMjIgMjI6Mjc6MzcgR01UoR1fECNtYXgtYWdlPTE1NTUyMDAwOyBpbmNsdWRlU3ViRG9tYWluc6EfVDUzODehIVpLZWVwLUFsaXZloSNfEBkiNTU2Yy01ZWQ5Mjc3ZTQxZTAwLWd6aXAioSVVYnl0ZXOhJ18QHVdlZCwgMTYgTm92IDIwMjIgMDg6NDM6MzYgR01UAAgAIwAwADsAQABTAFoAaABtAIkAmACjAKgAtgDEAMYAzwDRAOYA6AD6APwBAQEDAQoBDAEiASQBRAFGAWwBbgFzAXUBgAGCAZ4BoAGmAagAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAAByA==_"556c-5ed9277e41e00-gzip"_Accept-EncodingUbytesÒ/0vw_NSMutableDictionary£vx3\NSDictionaryÒ/0z{_NSHTTPURLResponse£|}3_NSHTTPURLResponse]NSURLResponse    $ ) 2 7 I L b d Ž ” ¯ Ñ ó ö=DfilŽ°³µ·¹»½¿ÁÃÄÆÈÊÌÓÛçéëí*39<ENPRYal{}ƒ…‡‰‹‘“•—¦¨ª¬®°²´¶¸º¼¾ÀÂÄÑÜêý3BMV[`nwŒ¬±¸Îî$$@RX]sw„‰¡µ             ~              ÃÕ_WebResourceTextEncodingName_WebResourceFrameNameO(<!DOCTYPE html><!--[if lt IE 7 ]> <html lang="en" class="no-js ie ie6 lte7 lte8 lte9"> <![endif]--><!--[if IE 7 ]>    <html lang="en" class="no-js ie ie7 lte7 lte8 lte9"> <![endif]--><!--[if IE 8 ]>    <html lang="en" class="no-js ie ie8 lte8 lte9"> <![endif]--><!--[if IE 9 ]>    <html lang="en" class="no-js ie ie9 lte9"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html lang="en" class="no-js"><!--<![endif]--><head>
+  <meta charset="UTF-8">
+  <title>NSTableView Variable Row Heights Broken on macOS Ventura 13.0 â€¢ Christian Tietze</title>
+  <link rel="authorization_endpoint" href="https://auth.christiantietze.de/">
+  <link rel="me" href="https://mastodon.social/@ctietze">
+  <meta name="description" content="Variable row heights in your NSTableView might be broken in your apps on macOS Ventura 13.0 -- it's fixed with the upcoming 13.1, but that's only available as a beta at the moment. When you replace table ...">
+  <meta name="copyright" content="CC BY-NC-SA 2008â€“2020 Christian Tietze <https://creativecommons.org/licenses/by-nc-sa/4.0>">
+  <meta name="author" content="Christian Tietze">
+  <meta name="revisit-after" content="1 day">
+  <meta name="language" content="en">
+  
+  <meta name="viewport" content="width=320,user-scalable=no,initial-scale=0.8">
+  <link rel="stylesheet" href="/css/default.css" media="screen">
+  
+
+  <link rel="alternate" title="Blog Atom feed" type="application/atom+xml" href="/feed.atom">
+  
+  <link type="text/plain" rel="author" href="/humans.txt">
+  <meta property="og:title" content="NSTableView Variable Row Heights Broken on macOS Ventura 13.0"><meta property="og:description" content="Variable row heights in your NSTableView might be broken in your apps on macOS Ventura 13.0 -- it's fixed with the upcoming 13.1, but that's only available as a beta at the moment. When you replace table ..."><meta property="og:url" content="https://christiantietze.de/posts/2022/11/nstableview-variable-row-heights-broken-macos-ventura-13-0/"><meta property="og:type" content="article"><meta property="article:published_time" content="2022-11-03T08:23:15+01:00"><meta property="article:tag" content="nstableview"><meta property="article:tag" content="bug"><meta property="og:site_name" content="Christian Tietze">
+  <meta name="twitter:card" content="summary"><meta name="twitter:site" content="@ctietze"><meta name="twitter:title" content="NSTableView Variable Row Heights Broken on macOS Ventura 13.0"><meta name="twitter:description" content="Variable row heights in your NSTableView might be broken in your apps on macOS Ventura 13.0 -- it's fixed with the upcoming 13.1, but that's only available as a beta at the moment. When you replace table ..."><meta name="twitter:url" content="https://christiantietze.de/posts/2022/11/nstableview-variable-row-heights-broken-macos-ventura-13-0/"><meta name="twitter:label1" content="Written by"><meta name="twitter:data1" content="Christian Tietze"><meta name="twitter:label2" content="Tags"><meta name="twitter:data2" content="nstableview, bug">
+  
+    <meta property="profile:first_name" content="Christian">
+    <meta property="profile:last_name" content="Tietze">
+  
+</head>
+<body class=" ">
+  <header id="site-header">
+    <div class="container">
+      <div id="banner">
+  <h1 class="sitetitle">
+    <a href="/"><span class="forename">Christian</span> <span class="surname">Tietze</span></a>
+  </h1>
+  
+</div>
+      <nav id="navigation">
+  <ul class="nav_items">
+    <li class="nav_item"><a class="nav_item__link" href="/posts/">Posts</a></li>
+    <li class="nav_item"><a class="nav_item__link" href="/books/">Books</a></li>
+    <li class="nav_item"><a class="nav_item__link" href="/software/">Apps</a></li>
+    
+    <li class="nav_item nav_item--newline-sm"><a href="/hire-me/" class="nav_item__link">Work With Me</a></li> 
+    <li class="nav_item"><a href="/contact/" class="nav_item__link">Contact</a></li> 
+  </ul>
+</nav>
+
+    </div>
+  </header>
+
+  <main id="content">
+    
+    
+<section id="posts" class="container">
+    <article class="post ">
+        <header>
+            <h1 class="title">NSTableView Variable Row Heights Broken on macOS Ventura 13.0</h1>
+            <p class="time"><time datetime="2022-11-03 08:23:15 +0100">Nov 3rd, 2022</time></p>
+            
+        </header>
+
+        
+
+        <p>Variable row heights in your <code>NSTableView</code> might be broken in your apps on macOS Ventura 13.0 â€“ itâ€™s fixed with the upcoming 13.1, but thatâ€™s only available as a beta at the moment.</p>
+
+<p>When you replace table contents by calling <code>aTableView.reloadItems()</code>, this will ingest the new data as usual, but the old row heights wonâ€™t be forgotten. This can affect scrolling. The row height cache, it seems, isnâ€™t properly invalidated or cleared.</p>
+
+<blockquote>
+  <p><code>NSTableView</code> and <code>NSOutlineView</code> now automatically estimate row heights for view-based table views whose delegates implement <code>tableView(_:heightOfRow:)</code> and provide variable row heights. This provides performance improvements for table views with large numbers of rows by reducing the frequency of the calls to <code>tableView(_:heightOfRow:)</code>.<br><br>
+(<a href="https://developer.apple.com/documentation/macos-release-notes/appkit-release-notes-for-macos-13">macOS 13 Release Notes</a>)</p>
+</blockquote>
+
+<p><a href="https://mackuba.eu/notes/wwdc22/whats-new-in-appkit/">Kuba Suder summarized this</a>:</p>
+
+<blockquote>
+  <p>In macOS Ventura <code>NSTableView</code> now calculates the row heights lazily:</p>
+
+  <ul>
+    <li>row heights are calculated for rows which are in or near the scrolling viewport</li>
+    <li>for the rest of the rows, <code>NSTableView</code> estimates the height based on the row heights that it has already measured</li>
+    <li>as the table is scrolled, the table view requests more row heights as needed and replaces the estimates with real measurements</li>
+  </ul>
+</blockquote>
+
+<p>@SkipRousseau shared how to fix this in a Slack:</p>
+
+<ol>
+  <li>
+    <p>Your app can opt out of row height estimation.</p>
+
+    <p>Test this via launch arguments in Xcode by adding <code>-NSTableViewCanEstimateRowHeights NO</code>. That essentially overrides a <code>UserDefaults</code> key.<sup id="fnref:info" role="doc-noteref"><a href="#fn:info" class="footnote" rel="footnote">1</a></sup></p>
+
+    <p>To do this programmatically, call <code>UserDefaults.standard.set(true, forKey: "NSTableViewCanEstimateRowHeights")</code> early in the appâ€™s launch routine, e.g. during <code>applicationWillFinishLaunching</code>.</p>
+  </li>
+  <li>
+    <p>Invalidate the cache for each row index, in code via <code>NSTableView.noteHeightOfRows(withIndexesChanged:)</code>. Skipâ€™s sample to invalidate the cache for all rows is:</p>
+
+    <div class="language-swift highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="c1">// Right after reloadData,</span>
+ <span class="kt">NSAnimationContext</span><span class="o">.</span><span class="nf">beginGrouping</span><span class="p">()</span>
+ <span class="kt">NSAnimationContext</span><span class="o">.</span><span class="n">current</span><span class="o">.</span><span class="n">duration</span> <span class="o">=</span> <span class="mi">0</span>
+ <span class="k">let</span> <span class="nv">entireTableView</span><span class="p">:</span> <span class="kt">IndexSet</span> <span class="o">=</span> <span class="o">.</span><span class="nf">init</span><span class="p">(</span><span class="mi">0</span> <span class="o">..&lt;</span> <span class="k">self</span><span class="o">.</span><span class="n">tableView</span><span class="o">.</span><span class="n">numberOfRows</span><span class="p">)</span>
+ <span class="k">self</span><span class="o">.</span><span class="n">tableView</span><span class="o">.</span><span class="nf">noteHeightOfRows</span><span class="p">(</span><span class="nv">withIndexesChanged</span><span class="p">:</span> <span class="n">entireTableView</span><span class="p">)</span>
+ <span class="kt">NSAnimationContext</span><span class="o">.</span><span class="nf">endGrouping</span><span class="p">()</span>
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p>For now, I tend towards disabling <code>NSTableViewCanEstimateRowHeights</code> by default to get the old behavior and to prevent the bug on Ventura, and optionally enable this for macOS 13.1 during the launch procedure. Opting-out of the new behavior sounds easier to maintain than invalidating row indexes on 13.0 in code.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:info" role="doc-endnote">
+      <p><code>UserDefaults</code> donâ€™t update when you put this keyâ€“value-pair into your <code>Info.plist</code>. Thanks <a href="https://twitter.com/daniel_a_a">Daniel Alm</a> for reporting this!&nbsp;<a href="#fnref:info" class="reversefootnote" role="doc-backlink">â†©</a></p>
+    </li>
+  </ol>
+</div>
+
+
+        <p>Receive new <a href="https://christiantietze.de/newsletter" class="post__meta__subscribe">posts via email</a>.</p>
+
+        <footer>
+          <ul class="post__meta">
+              <li>Tags:         <ul class="tags">
+        
+          <li><a href="/posts/tags/nstableview/">nstableview</a></li>
+        
+          <li><a href="/posts/tags/bug/">bug</a></li>
+        
+        </ul>
+</li>
+              
+          </ul>
+        </footer>
+    </article>
+
+    
+
+    
+      
+    
+</section>
+
+  </main>
+
+  <footer id="footer" class="footer">
+    <div class="container">
+      <p>
+  <small>
+    <strong><a href="/contact/">Contact</a></strong> 
+    â€¢ 
+    <a href="/newsletter/">Newsletter</a> 
+    â€¢ 
+    <a href="/feed.atom" rel="alternate" type="application/atom+xml">blog post feed</a> 
+    <br>
+    <a href="http://member.impactradius.com/campaign-campaign-info/Christian-Tietze.brand">Become an affiliate</a> 
+    â€¢ 
+    <a href="/legal-info-privacy/">Legal Information</a> 
+    â€¢
+    <a href="https://twitter.com/ctietze" rel="me">Twitter</a> 
+  </small>
+</p>
+<p class="license">
+  <small>
+    <i>Except where otherwise noted, content on this site is licensed <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC&nbsp;BY-SA 4.0</a>.</i>
+</small>
+</p>
+    </div>
+  </footer>
+
+
+
+</body></html>Ytext/htmlUUTF-8_dhttps://christiantietze.de/posts/2022/11/nstableview-variable-row-heights-broken-macos-ventura-13-0/P    1 3 < N d s ‰UùVV/___;_R‡t‡~‡„‡ë                           ‡ì

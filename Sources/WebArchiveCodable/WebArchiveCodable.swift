@@ -32,6 +32,9 @@ public struct WebArchive {
         /// The downloaded resource's MIME type.
         public let mimeType: String
 
+        /// The IANA encoding name (for example, "UTF-8" or "UTF-16"), or `nil` if text encoding is not applicable (e.g. for image subresources).
+        public let textEncodingName: String?
+
         /// The name of the frame.
         ///
         /// If the receiver does not represent the contents of an entire HTML frame, returns `nil`.
@@ -50,6 +53,7 @@ extension WebArchive.Resource: Decodable {
         case data = "WebResourceData"
         case url = "WebResourceURL"
         case MIMEType = "WebResourceMIMEType"
+        case textEncodingName = "WebResourceTextEncodingName"
         case frameName = "WebResourceFrameName"
     }
 
@@ -60,6 +64,7 @@ extension WebArchive.Resource: Decodable {
             url: container.decodeIfPresent(String.self, forKey: .url)
                     .flatMap(URL.init(string:)),
             mimeType: container.decode(String.self, forKey: .MIMEType),
+            textEncodingName: container.decodeIfPresent(String.self, forKey: .textEncodingName),
             frameName: container.decodeIfPresent(String.self, forKey: .frameName)
         )
     }
