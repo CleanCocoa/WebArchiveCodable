@@ -1,10 +1,11 @@
 import Foundation
 
-public struct WebArchive: Equatable {
-    public struct WebResource: Equatable {
+public struct WebArchive {
+    public struct WebResource {
         public let mimeType: String
         public let url: URL?
         public let frameName: String?
+        public let data: Data?
     }
 
     public let mainResource: WebResource
@@ -16,6 +17,7 @@ extension WebArchive.WebResource: Decodable {
         case MIMEType = "WebResourceMIMEType"
         case url = "WebResourceURL"
         case frameName = "WebResourceFrameName"
+        case data = "WebResourceData"
     }
 
     public init(from decoder: Decoder) throws {
@@ -24,7 +26,8 @@ extension WebArchive.WebResource: Decodable {
             mimeType: container.decode(String.self, forKey: .MIMEType),
             url: container.decodeIfPresent(String.self, forKey: .url)
                 .flatMap(URL.init(string:)),
-            frameName: container.decodeIfPresent(String.self, forKey: .frameName)
+            frameName: container.decodeIfPresent(String.self, forKey: .frameName),
+            data: container.decodeIfPresent(Data.self, forKey: .data)
         )
     }
 }
