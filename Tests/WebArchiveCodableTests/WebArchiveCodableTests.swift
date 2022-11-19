@@ -10,11 +10,13 @@ final class WebArchiveCodableTests: XCTestCase {
         XCTAssertEqual(webArchive, WebArchive(
             mainResource: .init(
                 mimeType: "text/html",
-                url: URL(string: "https://en.wikipedia.org/wiki/Main_Page#/media/File:Adele_for_Vogue_in_2021.png")!
+                url: URL(string: "https://en.wikipedia.org/wiki/Main_Page#/media/File:Adele_for_Vogue_in_2021.png")!,
+                frameName: ""
             ),
             subresources: [
                 .init(mimeType: "image/png",
-                      url: URL(string: "https://upload.wikimedia.org/wikipedia/commons/5/52/Adele_for_Vogue_in_2021.png")!),
+                      url: URL(string: "https://upload.wikimedia.org/wikipedia/commons/5/52/Adele_for_Vogue_in_2021.png")!,
+                      frameName: nil),
             ]))
     }
 }
