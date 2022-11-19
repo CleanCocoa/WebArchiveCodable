@@ -20,6 +20,8 @@ final class WebArchiveCodableTests: XCTestCase {
         XCTAssertEqual(subresource.mimeType, "image/png")
         XCTAssertEqual(subresource.url, try XCTUnwrap(URL(string: "https://upload.wikimedia.org/wikipedia/commons/5/52/Adele_for_Vogue_in_2021.png")))
         XCTAssertNil(subresource.frameName)
-        XCTAssertNotNil(subresource.data)
+
+        let imageData = try XCTUnwrap(subresource.data)
+        XCTAssertNotNil(NSImage(data: imageData))
     }
 }
