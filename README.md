@@ -1,5 +1,7 @@
 # WebArchiveCodable
 
+![Stable Diffusion prompt: "Clean, sharp, document icon, Safari browser logo compass on a stylized clipboard, by Mac OS X, gradients, Colorful, icon, 3D Render"](.github/logo.jpg)
+
 Exposes legacy WebKit WebArchive as a Swift Codable to e.g. access pasteboard data from Safari
 
 
@@ -15,9 +17,8 @@ Exposes legacy WebKit WebArchive as a Swift Codable to e.g. access pasteboard da
 ## Thanks
 
 - Oliver Drobnik's [post at Cocoanetics](https://www.cocoanetics.com/2011/09/decoding-safaris-pasteboard-format/) that brought up the idea to not use WebKit objects, but simpler representations.
+- [Diffusion Bee](https://diffusionbee.com/) for the macOS stable diffusion app to generate a wonky logo via "`Clean, sharp, document icon, Safari browser logo compass on a stylized clipboard, by Mac OS X, gradients, Colorful, icon, 3D Render`"
 
 ## License
 
 Copyright &copy; 2022 [Christian Tietze](https://christiantietze.de). Distributed under the MIT License. See [LICENSE file](./LICENSE) for details.
-
-
